@@ -16,5 +16,8 @@
 <p align="center">
   <a href="https://www.instagram.com/jeong_daeu/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y_o_u_h_y_u_n/"/></a>&nbsp
   <a href="mailto:s20063@gsm.hs.kr "><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s20063@gsm.hs.kr"/></a>
-</p>
+
 ![MY github status](https://github-readme-stats.vercel.app/api?username=eodn&show_icons=true)
+</p>
+
+
